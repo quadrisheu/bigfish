@@ -25,13 +25,7 @@ const App = () => {
             </div>
         </div>
 
-         {/* <BrowserRouter>
-     <Routes>
-               <Route path='/register' element={<Register />} />
-                <Route path='/login' element={<LogIn />} />
-                <Route path='/*' element={<Special />}/>
-             </Routes>
-         </BrowserRouter>    */}
+         
         
          
         
